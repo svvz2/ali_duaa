@@ -19,7 +19,7 @@ const INVITATION = {
   mapsUrl: "https://maps.google.com?q=%D9%82%D8%A7%D8%B9%D8%A9%20%D8%A7%D9%84%D8%AE%D8%B6%D8%B1%D8%A7%D8%A1%D8%8C%209C92%20PQW%D8%8C%20%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF%20%D8%8C%20%D8%AA%D9%82%D8%A7%D8%B7%D8%B9%20%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%84%20%D8%8C%20%D8%A7%D9%85%D8%A7%D9%85%20%D9%85%D8%AC%D8%B3%D8%B1%20%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9%D8%8C%20%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF%D8%8C%20%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF%20%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9&ftid=0x0:0x6b5d7d1ad9e6c9f4&entry=gps&shh=CAE&lucs=,94297699,94284475,94231188,94280568,47071704,94218641,94282134,94286869&g_st=ic",
   // رابط أقصر لل*QR* لتفادي رمز ضخم (يفتح نفس الموقع)
   mapsQrUrl: "https://maps.google.com/?q=" + encodeURIComponent("قاعة الخضراء بغداد") + "&ftid=0x0:0x6b5d7d1ad9e6c9f4",
-  mapEmbed: "https://maps.google.com/maps?q=" + encodeURIComponent("قاعة الخضراء، شارع فلسطين، تقاطع الموال، أمام مجسر الجامعة، بغداد") + "&t=&z=16&ie=UTF8&iwloc=&output=embed",
+  mapEmbed: "https://maps.google.com/maps?q=" + encodeURIComponent("قاعة الخضراء، شارع فلسطين، تقاطع الموال، أمام مجسر الجامعة، المستنصرية") + "&t=&z=16&ie=UTF8&iwloc=&output=embed",
   startISO: "20260605T170000", // التوقيت المحلي بغداد
   endISO:   "20260605T220000",
   // ضع هنا رابط الموقع بعد النشر؛ يستخدم window.location.href تلقائياً إن كان فارغاً
